@@ -1,7 +1,7 @@
 # Inference-Systems-Notebook
 Analyses of Inference Systems
 
-Notebook for understanding and modeling modern inference systems
+Notebook for analyzing and modeling modern inference systems
 
 Focus Areas:
 
